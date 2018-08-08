@@ -18,4 +18,9 @@ public class MainActivity extends AppCompatActivity {
         //...
     }
 
+    //http
+    private void httpTest() {
+        //...
+    }
+
 }
