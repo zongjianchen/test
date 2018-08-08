@@ -13,11 +13,5 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    //from locad
-    private void locadTest() {
-        //...
-    }
-
-    
 
 }
