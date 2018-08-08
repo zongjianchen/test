@@ -11,12 +11,15 @@
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
             <intent-filter>
+			//test1
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+		//test11
     </application>
+	//test111
 //aaaa test 
-
+//test1111
 </manifest>
