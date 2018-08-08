@@ -13,14 +13,5 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    //from locad
-    private void locadTest() {
-        //...
-    }
-
-    //http
-    private void httpTest() {
-        //...
-    }
 
 }
