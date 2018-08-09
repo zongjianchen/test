@@ -17,18 +17,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<<<<<<< HEAD
 		//test11
-=======
         //test2
->>>>>>> 2edb6bf31709c8cd64e5519c3c7e4b0399059fad
     </application>
 	//test111
 //aaaa test 
-<<<<<<< HEAD
 //test1111
-=======
     //test22
 
->>>>>>> 2edb6bf31709c8cd64e5519c3c7e4b0399059fad
 </manifest>
